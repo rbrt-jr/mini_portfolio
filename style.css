@@ -64,9 +64,14 @@ strong {
     text-align: center;
     border-radius: 16px;
     font-size: 28px;
-    padding: 21.5px 53px;
+    padding: 21.5px 5px;
     text-decoration: none;
     color: black;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
+}
+
+.exhibition_img {
+    display: flex;
+    border-radius: 30px; 
 }
